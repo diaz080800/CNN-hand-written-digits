@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# This is the hello world of deep learning, it is handwritten digit identificaiton
-
 # In[1]:
 
 
